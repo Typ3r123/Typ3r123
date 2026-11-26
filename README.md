@@ -5,3 +5,4 @@
 - 📱 I also built an Android game prototype inspired by Vampire Survivors.
 - 📫 You can reach me on [Telegram](https://t.me/Typ3rr) or by [email](mailto:kiselev.artem.best@gmail.com).
 - 🎓 I study at Minsk College of Entrepreneurship.
+- 💼 [LinkedIn](https://www.linkedin.com/in/%D0%B0%D1%80%D1%82%D0%B5%D0%BC-%D0%BA%D0%B8%D1%81%D0%B5%D0%BB%D0%B5%D0%B2-366476452/)

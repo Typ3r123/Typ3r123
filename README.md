@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Typ3r123.
+- 👋 Hi, I’m Typ3r.
 - 👀 I’m interested in game development and web development.
 - 🌱 I work with C#, C++, Unity, SFML, JavaScript, Vue.js, and Tailwind CSS.
 - 🎮 My projects include a [Unity game prototype](https://github.com/Typ3r123/I-hate-this-game) and a [fitness club website](https://github.com/Typ3r123/Gym-site).
